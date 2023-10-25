@@ -74,6 +74,7 @@ powercomp['hour'] = powercomp['DateTime'].dt.hour
 
 zone별 어느 시간대가 발전량이 많은지 보자.
 의외로 저녁 시간대에 모든 zone에서 발전량이 제일 많은 것을 볼 수 있다.
+
 ![](https://velog.velcdn.com/images/seonydg/post/aad2f33d-6e8c-48ee-be8d-e131ff3f1ec1/image.png)![](https://velog.velcdn.com/images/seonydg/post/e130f70f-2402-45a3-a3b7-16f84c8c1703/image.png)![](https://velog.velcdn.com/images/seonydg/post/d86f1dc0-0fef-4651-ac0f-1ffd5434f88e/image.png)
 
 월로 보았을 때, 7, 8월이 가장 전력량이 많았었다.
